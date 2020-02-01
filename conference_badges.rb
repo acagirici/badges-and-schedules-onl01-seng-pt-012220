@@ -1,2 +1,2 @@
 def batch_badge_creator(name)
-speakers = []
+speakers = [Edsger, Ada, Charles, Alan, Grace, Linus, and Matz]
